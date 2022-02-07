@@ -1,0 +1,1 @@
+# public_microservice_config
